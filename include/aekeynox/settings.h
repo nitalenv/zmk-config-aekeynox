@@ -14,7 +14,7 @@
 // #define KB_LAYOUT_BEPO              // France
 // #define KB_LAYOUT_BEPOLAR           // France
 // #define KB_LAYOUT_DVORAK            // US
-// #define KB_LAYOUT_ERGOL             // France
+#define KB_LAYOUT_ERGOL             // France
 // #define KB_LAYOUT_ERGLACE           // France
 // #define KB_LAYOUT_QWERTY_BR         // Brazil
 // #define KB_LAYOUT_QWERTY_DK         // Denmark
@@ -22,7 +22,7 @@
 // #define KB_LAYOUT_QWERTY_ES         // Spain
 // #define KB_LAYOUT_QWERTY_INTL       // US (International)
 // #define KB_LAYOUT_QWERTY_IT         // Italy
-#define KB_LAYOUT_QWERTY_LAFAYETTE  // France
+// #define KB_LAYOUT_QWERTY_LAFAYETTE  // France
 // #define KB_LAYOUT_QWERTY_LATAM      // Latin America
 // #define KB_LAYOUT_QWERTY_LV         // Latvia (Programmers)
 // #define KB_LAYOUT_QWERTY_NO         // Norway
